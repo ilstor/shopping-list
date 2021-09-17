@@ -1,5 +1,9 @@
 # intelliJ
 .idea
+
+# parcel
+.parcel-cache
+
 # Logs
 logs
 *.log
